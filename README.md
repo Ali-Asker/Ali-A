@@ -1,8 +1,4 @@
-# Ali Asker
-
-Ottawa, ON · 819-830-0157 · [a.asker04@yahoo.com](mailto:a.asker04@yahoo.com) · [github.com/Ali-Asker](https://github.com/Ali-Asker)
-
-**Web version:** [ali-asker.github.io](https://ali-asker.github.io) · **Download:** [PDF](Ali-Asker_Resume.pdf) · [Word](Ali-Asker_Resume.docx)
+# Ali-A
 
 ---
 
